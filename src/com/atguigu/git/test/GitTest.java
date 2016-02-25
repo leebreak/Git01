@@ -8,5 +8,7 @@ public class GitTest {
 		System.out.println("hello Github2!");
 		
 		System.out.println("github return 01");
+		
+		System.out.println("github return 02");
 	}
 }
