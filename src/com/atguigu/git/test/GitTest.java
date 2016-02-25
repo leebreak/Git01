@@ -10,5 +10,7 @@ public class GitTest {
 		System.out.println("github return 01");
 		
 		System.out.println("github return 02");
+		
+		System.out.println("local request 01");
 	}
 }
